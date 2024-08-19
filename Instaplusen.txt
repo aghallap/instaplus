@@ -1,1 +1,8 @@
+Version 9.10 Changelog:
 
+>[Base update] 325.0.0.35.91
+>[Exclusive] Added the themes server, approximately 5000 themes added
+>[Exclusive] Support for changing emojis (iPhone, Facebook, Twitter, and more...)
+>[Exclusive] Support for changing the app font (about 100 fonts added)
+>[Exclusive] Support for changing the font in stories (iPhone, Facebook, Twitter, and about 100 more fonts)
+>[Fixed] Many Random Crash
