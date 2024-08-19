@@ -2,9 +2,9 @@
   "Gold": {
     "update_code": "3",
     "reminder_time": "3",
-    "update_version": "v9.0",
-    "com.instagram.android": "https://instagold.download/update",
-    "com.instagold.android": "https://instagold.download/update",
+    "update_version": "v9.10",
+    "com.instagram.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
+    "com.instagold.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "update_message": "
 <p>Update VØªØ­Ø¯ÙŠØ« 9.10</p>
 <li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 325.0.0.35.91</li>
