@@ -1,0 +1,23 @@
+{
+  "Gold": {
+    "update_code": "3",
+    "reminder_time": "3",
+    "update_version": "v9.0",
+    "com.instagram.android": "https://instagold.download/update",
+    "com.instagold.android": "https://instagold.download/update",
+    "update_message": "
+<p>Update VØªØ­Ø¯ÙŠØ« 9.10</p>
+<li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 325.0.0.35.91</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ù…Ø´ÙƒÙ„Ø© Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø± Ø¹Ù†Ø¯ ÙØªØ­ Ø¯Ø±Ø¯Ø´Ø§Øª Ø¬Ù…Ø§Ø¹ÙŠÙ‡</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ù…ÙƒØ§Ù† Ø²Ø± Ø§Ù„Ø§Ø±Ø³Ø§Ù„</li>
+<li>Ø¥ØµÙ„Ø§Ø­ Ù…Ø´ÙƒÙ„Ø© Ø¹Ù†Ø¯ ØªØ­Ù…ÙŠÙ„ Ø§Ù„ÙÙŠØ¯ÙŠÙˆÙ‡Ø§Øª ÙŠØ¸Ù‡Ø± Ø§Ù†Ù‡Ø§ ØºÙŠØ± Ù…Ø¯Ø¹ÙˆÙ…Ù‡</li>
+<li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
+
+<li>Base Update: 325.0.0.35.91</li>
+<li>Fixed Crash problem when opening group chats</li>
+<li>Fixed Location of the Send button</li>
+<li>Fixed Problem when downloading videos shows that they are not supported</li>
+<li>Other fixes</li>
+"
+    }
+}
