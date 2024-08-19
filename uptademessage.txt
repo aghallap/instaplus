@@ -5,7 +5,7 @@
     "update_version": "v9.10",
     "com.instagram.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "com.instagold.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
-    "update_message": "
+    "update_message":"
 <p>Update VØªØ­Ø¯ÙŠØ« 9.10</p>
 <li>Ø§Ù„ØªØ­Ø¯ÙŠØ« Ù„Ù†Ø³Ø®Ø© Ø§Ù„Ù…Ø§Ø±ÙƒØª 325.0.0.35.91</li>
 <li>Ø¥ØµÙ„Ø§Ø­ Ù…Ø´ÙƒÙ„Ø© Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø± Ø¹Ù†Ø¯ ÙØªØ­ Ø¯Ø±Ø¯Ø´Ø§Øª Ø¬Ù…Ø§Ø¹ÙŠÙ‡</li>
