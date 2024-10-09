@@ -1,4 +1,4 @@
-Version 9.10 Changelog:
+Version 9.30 Changelog:
 
 >[Base update] 325.0.0.35.91
 >[Exclusive] Added the themes server, approximately 5000 themes added
