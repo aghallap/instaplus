@@ -1,8 +1,8 @@
 {
   "Gold": {
-    "update_code": "0",
+    "update_code": "3",
     "reminder_time": "3",
-    "update_version": "v9.30",
+    "update_version": "v9.40",
     "com.instagram.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "com.instagold.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "update_message": "
