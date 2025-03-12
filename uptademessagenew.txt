@@ -1,12 +1,12 @@
 {
   "Gold": {
-    "update_code": "4",
+    "update_code": "8",
     "reminder_time": "3",
-    "update_version": "v9.50",
+    "update_version": "v9.60",
     "com.instagram.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "com.instagold.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 9.50</p>
+<p>Update VØªØ­Ø¯ÙŠØ« 9.75</p>
 <li>ØªØ­Ø¯ÙŠØ« Ù‚Ø§Ø¹Ø¯Ø© Ø§Ù†Ø³ØªÙ‚Ø±Ø§Ù… Ø§Ù„Ù‰ 357.1.0.52.100</li>
 <li>Ø§Ø¶Ø§ÙØ© ØªØºÙŠØ± Ø§ÙŠÙ…ÙˆØ¬ÙŠ Ø§Ù„Ø§ÙŠÙÙˆÙ† Ø¨Ø·Ø±ÙŠÙ‚Ù‡ Ø¬Ø¯ÙŠØ¯Ù‡ (Ø§Ø¶Ø§ÙØ§Øª Ø§Ù†Ø³ØªÙ‚Ø±Ø§Ù… Ø§Ù„Ø°Ù‡Ø¨ÙŠ > Ø§Ù„Ø³Ù…Ù‡ ÙˆÙˆØ§Ø¬Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…)</li>
 <li>Ø§Ø¶Ø§ÙØ© Ø­Ø²Ù…Ø© Ø¬Ø¯ÙŠØ¯Ù‡ Ø¨Ø§Ø³Ù… joy Pixel ÙÙŠ Ø§Ù„Ø§ÙŠÙ…ÙˆØ¬ÙŠ</li>
