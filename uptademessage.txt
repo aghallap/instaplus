@@ -2,15 +2,31 @@
   "Gold": {
     "update_code": "14",
     "reminder_time": "3",
-    "update_version": "v9.75",
+    "update_version": "v9.80",
     "com.instagram.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "com.instagold.android": "https://www.abu2rab.com/2024/02/insta-gold-ali.html",
     "update_message": "
-<p>Update VØªØ­Ø¯ÙŠØ« 9.75</p>
-<li>Ù…Ø´ÙƒÙ„Ø© Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø± Ø¹Ù†Ø¯ Ø§Ù„Ø¯Ø®ÙˆÙ„ Ù„Ù„Ù…Ø­Ø§Ø¯Ø«Ø§Øª</li>
+<p>Update VØªØ­Ø¯ÙŠØ« 9.80</p>
+<li>ØªØ­Ø¯ÙŠØ« Ù‚Ø§Ø¹Ø¯Ø© Ø§Ù†Ø³ØªÙ‚Ø±Ø§Ù… Ø§Ù„Ù‰ 370.1.0.43.96</li>
+<li>Ø§Ø¶Ø§ÙØ© ØªØºÙŠØ± Ø§ÙŠÙ…ÙˆØ¬ÙŠ Ø§Ù„Ø§ÙŠÙÙˆÙ† Ø¨Ø·Ø±ÙŠÙ‚Ù‡ Ø¬Ø¯ÙŠØ¯Ù‡ (Ø§Ø¶Ø§ÙØ§Øª Ø§Ù†Ø³ØªÙ‚Ø±Ø§Ù… Ø§Ù„Ø°Ù‡Ø¨ÙŠ > Ø§Ù„Ø³Ù…Ù‡ ÙˆÙˆØ§Ø¬Ø© Ø§Ù„Ù…Ø³ØªØ®Ø¯Ù…)</li>
+<li>Ø§Ø¶Ø§ÙØ© Ø­Ø²Ù…Ø© Ø¬Ø¯ÙŠØ¯Ù‡ Ø¨Ø§Ø³Ù… joy Pixel ÙÙŠ Ø§Ù„Ø§ÙŠÙ…ÙˆØ¬ÙŠ</li>
+<li>Ø§Ø¶Ø§ÙØ© Ù…ÙŠØ²Ø© ØªØºÙŠØ± Ø®Ø· Ø§Ù„Ù‚ØµØµ</li>
+<li>Ø§Ø¶Ø§ÙØ© ØªØºÙŠØ± Ø§ÙŠÙ…ÙˆØ¬ÙŠ Ø§Ù„Ù‚ØµØµ</li>
+<li>ØªØ­Ø³ÙŠÙ† Ø´ÙƒÙ„ Ø§Ù„Ø§Ø¶Ø§ÙØ§Øª</li>
+<li>ØªÙØ¹ÙŠÙ„ Ø¯Ø±Ø¯Ø´Ø© Ø§Ù„Ø°ÙƒØ§Ø¡ Ø§Ù„Ø§ØµØ·Ù†Ø§Ø¹ÙŠ</li>
+<li>Ø§ØµÙ„Ø§Ø­ Ù…Ø´ÙƒÙ„Ø© Ø¹Ø¯Ù… ÙØªØ­ Ø§Ù„Ù…Ø­Ø§Ø¯Ø«Ø§Øª ÙˆØ¸Ù‡ÙˆØ± Ø´Ø§Ø´Ø© ØªØ­Ø¯ÙŠØ« Ø§Ù†Ø³ØªÙ‚Ø±Ø§Ù…</li>
+<li>Ø§ØµÙ„Ø§Ø­ Ø¬Ù…ÙŠØ¹ Ù…Ø´Ø§ÙƒÙ„ Ø§Ù„Ø§Ù†Ù‡ÙŠØ§Ø±Ø§Øª</li>
 <li>Ø¥ØµÙ„Ø§Ø­Ø§Øª Ø§Ø®Ø±Ù‰</li>
 
-<li>Crash when entering chats</li>
+<li>Updated Instagram base to 370.1.0.43.96</li>
+<li>Added a new method to change iPhone emojis (Themes and UI)</li>
+<li>Added a new emoji pack named Joy Pixel</li>
+<li>Added a feature to change the font of stories</li>
+<li>Added the option to change story emojis</li>
+<li>Improved the appearance of features</li>
+<li>Enabled AI chat functionality</li>
+<li>Fixed the issue of conversations not opening and the Instagram update screen appearing</li>
+<li>Fixing all crash issues</li>
 <li>Other fixes</li>
 "
     }
